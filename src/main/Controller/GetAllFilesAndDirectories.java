@@ -17,7 +17,6 @@ public class GetAllFilesAndDirectories {
 	        
 	        //return the list of all the files and Directories
 	        return fileArray;
-	        
         }
         else
         {
