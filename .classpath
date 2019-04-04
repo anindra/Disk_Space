@@ -2,11 +2,11 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="/home/anindra/Downloads/json-simple-1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="https://www.dropbox.com/s/dnf10p97s5mjq7m/gson-2.2.2.jar?dl=0"/>
-	<classpathentry exported="true" kind="lib" path="/home/anindra/Downloads/org.apache.commons.io.jar"/>
-	<classpathentry exported="true" kind="lib" path="/home/anindra/Downloads/junit.jar"/>
-	<classpathentry exported="true" kind="lib" path="/home/anindra/Downloads/hamcrest-all-1.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="/home/anindra/Downloads/rest-assured-all-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/anindra/Downloads/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="https:/www.dropbox.com/s/dnf10p97s5mjq7m/gson-2.2.2.jar?dl=0"/>
+	<classpathentry kind="lib" path="/home/anindra/Downloads/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="/home/anindra/Downloads/junit.jar"/>
+	<classpathentry kind="lib" path="/home/anindra/Downloads/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/anindra/Downloads/rest-assured-all-3.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
